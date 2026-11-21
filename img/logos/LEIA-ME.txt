@@ -1,0 +1,3 @@
+Coloque aqui os logos das empresas e instituições (PNG ou SVG, quadrados de preferência).
+Exemplo: img/logos/sidia.png
+Depois, no index.html, procure a empresa dentro de CONTEUDO e preencha:  logo:"img/logos/sidia.png"
