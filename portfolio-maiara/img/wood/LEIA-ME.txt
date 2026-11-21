@@ -1,0 +1,6 @@
+Coloque aqui as telas e fotos do projeto Wood Identification.
+Exemplo: img/wood/mobile-1.png
+Depois, no index.html, dentro de CONTEUDO > projetos > telas, preencha:  src:"img/wood/mobile-1.png"
+- mobile: imagens em pé (proporção de celular, ex.: 1080x2280)
+- web: imagens deitadas (proporção 16:10, ex.: 1600x1000)
+- fotos: fotos tiradas em campo
